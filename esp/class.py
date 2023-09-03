@@ -8,3 +8,6 @@ class MyClass:
 
 klass1 = MyClass()
 klass1.aisha()
+
+
+
